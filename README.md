@@ -3,6 +3,11 @@ Scrape html pages and write the content as text to files
 - uses puppeteer to scrape static and dynamic html pages (SPA)
 - uses html-to-text to extract and convert html to text
 
+## Custom rules -> private repo
+When implementing custom scraping rules you may prefer a private repo.
+You can use this repo as a basis for scraping texts from your website and use the generated files
+to ingest your chat-bots context with. https://github.com/sw2go/ai-doc-bot
+
 ## Development
 
 1. Clone the repo
